@@ -3,7 +3,8 @@ a)Pradyumna Saxena
 b)Triyan Gupta
 c)Anirudh Goel
 from Bharati Vidyapeeth's college of engineering under Guru Gobind Singh Indraprastha University, New Delhi and have developed this project under problem statement #2 for the Intel Unnati Training program
-we have developed a basic teacher student model using knowledge distillation for image sharpening and all the files involved for the same have been uploaded in this repository
+
+We have developed a basic teacher student model using knowledge distillation for image sharpening through python(anaconda software and jupyter notebook) and all the files involved for the same have been uploaded in this repository
 
 link for the dataset is: https://www.kaggle.com/datasets/soumikrakshit/div2k-high-resolution-images
 
